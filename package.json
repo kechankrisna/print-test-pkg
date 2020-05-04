@@ -1,0 +1,11 @@
+{
+  "name": "print-test-pkg",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/all.js"
+  },
+  "author": "ke_chankrisna <ke.chankrisna168@gmail.com> (https://mylekha.dev)",
+  "license": "ISC"
+}
